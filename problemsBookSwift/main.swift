@@ -1,11 +1,4 @@
-//
-//  main.swift
-//  problemsBookSwift
-//
-//  Created by Andrey Vensko on 13.10.21.
-//
+// Выполнение заданий по книге Задачи по Swift 4.0
 
 import Foundation
-
-print("Hello, World!")
 
